@@ -4,5 +4,4 @@ service EmployeesService {
 
     entity Employees as projection on schema.Employees;
     
-
 }
